@@ -114,9 +114,11 @@ Output Waveform:
 
 TABULATION:
 
-<img width="667" height="940" alt="image" src="https://github.com/user-attachments/assets/eb6671d3-7a01-46cb-8830-48613fdd3bec" />
+<img width="892" height="731" alt="image" src="https://github.com/user-attachments/assets/313c8481-fef1-4dc8-8e5e-9b7f73ffe679" />
 
-<img width="691" height="213" alt="image" src="https://github.com/user-attachments/assets/128e425a-780f-49c8-a7d4-b69bd754bf54" />
+
+<img width="878" height="284" alt="image" src="https://github.com/user-attachments/assets/91aef82f-0093-40b6-bcac-1af648300454" />
+
 
 
 Calculation:
